@@ -1,5 +1,7 @@
 # vue-plyr-example-app
 
+This is an example of how to show a list of YouTube videos using [Vue.js](https://github.com/vuejs/vue).
+
 ## Credits
 
 - Vue component. [vue-plyr](https://github.com/redxtech/vue-plyr)
@@ -15,4 +17,4 @@ I tried to integrate the [code](https://codesandbox.io/s/3yy805jl6p) in [vue-rea
 
 ## Build 
 
-This repository is supposed to be build locally. 
+This repository is meant to be built locally.
