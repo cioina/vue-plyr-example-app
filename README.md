@@ -8,7 +8,7 @@ This is an example of how to show a list of YouTube videos using [Vue.js](https:
 - A simple HTML5, YouTube and Vimeo player. [plyr](https://github.com/sampotts/plyr)
 - Playlist to work with V3. [vesper8](https://github.com/sampotts/plyr/issues/1276)
 - Source code. [code](https://codesandbox.io/s/3yy805jl6p)
-- Live Example. [codesandbox.io](https://3yy805jl6p.codesandbox.io/)
+- Demo. [codesandbox.io](https://3yy805jl6p.codesandbox.io/)
 - Author. [C-Bass](https://github.com/vesper8)
 
 ## Motivation
